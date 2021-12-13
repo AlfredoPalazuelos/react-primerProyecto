@@ -1,12 +1,12 @@
 import React from "react";
 import "./style.css";
-import {componentes} from "./componets/componentes";
+import {Componentes} from "./componets/componentes";
 
 export default function App() {
   return (
     <div>
       <h1>Hola</h1>
-      <componentes />
+      <Componentes />
     </div>
   );
   

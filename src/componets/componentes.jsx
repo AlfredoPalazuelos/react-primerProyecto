@@ -1,6 +1,6 @@
 import React from "react";
 
-export function componentes(){
+export function Componentes(){
 
   return(
     <div>
